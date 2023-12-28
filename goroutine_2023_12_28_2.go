@@ -1,3 +1,4 @@
+// go协程，利用WaitGroup实现主线程等待所有协程结束的操作
 package main
 
 import (
